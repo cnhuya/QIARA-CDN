@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="-1.25 -1.25 30 30" fill="none" stroke="#ccdaf5" stroke-linecap="round" stroke-linejoin="round" id="Line-Chart--Streamline-Lucide" height="30" width="30">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-1.46 -1.46 35 35" fill="none" stroke="#ccdaf5" stroke-linecap="round" stroke-linejoin="round" id="Line-Chart--Streamline-Lucide" height="35" width="35">
   <desc>
     Line Chart Streamline Icon: https://streamlinehq.com
   </desc>
-  <path d="M3.4375 3.4375v20.625h20.625" stroke-width="2.5"></path>
-  <path d="m21.770833333333332 10.3125 -5.729166666666666 5.729166666666666 -4.583333333333333 -4.583333333333333 -3.4375 3.4375" stroke-width="2.5"></path>
+  <path d="M4.01 4.01v24.06h24.06" stroke-width="2.92"></path>
+  <path d="m25.39666666666667 12.03 -6.683333333333334 6.683333333333334 -5.346666666666667 -5.346666666666667 -4.01 4.01" stroke-width="2.92"></path>
 </svg>
