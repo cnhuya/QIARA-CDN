@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 33 33" id="Rss-Feed--Streamline-Ultimate" height="33" width="33">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" id="Rss-Feed--Streamline-Ultimate" height="30" width="30">
   <desc>
     Rss Feed Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="Rss-Feed--Streamline-Ultimate.svg">
-    <path d="M2.0625 11.37125a2.0625 2.0625 0 0 0 0 4.125 15.27625 15.27625 0 0 1 15.729999999999999 15.125 2.0625 2.0625 0 0 0 4.125 0c0 -10.807500000000001 -8.7175 -19.25 -19.855 -19.25Z" fill="#ccdaf5" stroke-width="1.375"></path>
-    <path d="M2.1037500000000002 0.32999999999999996a2.0625 2.0625 0 0 0 0 4.125c15.015 0 26.77125 11.48125 26.77125 26.125a2.0625 2.0625 0 1 0 4.125 0c0 -16.95375 -13.57125 -30.25 -30.89625 -30.25Z" fill="#ccdaf5" stroke-width="1.375"></path>
-    <path d="M0 27.84375a4.8125 4.8125 0 1 0 9.625 0 4.8125 4.8125 0 1 0 -9.625 0" fill="#ccdaf5" stroke-width="1.375"></path>
+    <path d="M1.875 10.337499999999999a1.875 1.875 0 0 0 0 3.75 13.8875 13.8875 0 0 1 14.299999999999999 13.75 1.875 1.875 0 0 0 3.75 0c0 -9.825000000000001 -7.925 -17.5 -18.05 -17.5Z" fill="#ccdaf5" stroke-width="1.25"></path>
+    <path d="M1.9125 0.3a1.875 1.875 0 0 0 0 3.75c13.65 0 24.3375 10.4375 24.3375 23.75a1.875 1.875 0 1 0 3.75 0c0 -15.4125 -12.337499999999999 -27.5 -28.0875 -27.5Z" fill="#ccdaf5" stroke-width="1.25"></path>
+    <path d="M0 25.3125a4.375 4.375 0 1 0 8.75 0 4.375 4.375 0 1 0 -8.75 0" fill="#ccdaf5" stroke-width="1.25"></path>
   </g>
 </svg>
