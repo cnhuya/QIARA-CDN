@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" height="30" width="30">
-  <!-- Lightning Bolt (moved 1px right, 1px up) -->
+  <!-- Lightning Bolt -->
   <path
     d="M16 3 L10 12 L14 12 L12 19 L18 10 L14 10 Z"
     fill="#ccdaf5"
     stroke="#ccdaf5"
     stroke-width="1"
     stroke-linejoin="round"
-    transform="translate(1 -1)"
+    transform="translate(2 -2)"
   />
 
   <!-- Waves -->
@@ -17,10 +17,8 @@
     stroke-linecap="round"
     stroke-linejoin="round"
   >
-    <!-- Top wave left side (curves down) -->
+    <!-- Top wave -->
     <path d="M5 15 C7 13, 9 13, 11 15" />
-    
-    <!-- Top wave right side (U-shape - curves up) -->
     <path d="M19 15 C21 17, 23 17, 25 15" />
 
     <!-- Middle wave -->
