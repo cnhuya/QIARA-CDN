@@ -1,8 +1,4 @@
-To match the reference image, we need to move away from the "filled" complex shapes of the original SVG and use **rounded strokes**. This creates that clean, bold, modern look with the gap in the top wave where the lightning bolt "pierces" through.
 
-I have rebuilt the icon from scratch using the blue color to match that specific layout:
-
-```svg
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" height="30" width="30">
   <!-- Lightning Bolt (Bottom Layer) -->
   <path d="M16 3 L10 12 L14 12 L12 19 L18 10 L14 10 Z" 
@@ -24,11 +20,3 @@ I have rebuilt the icon from scratch using the blue color to match that specific
     <path d="M5 25 C 8 23, 12 23, 15 25 C 18 27, 22 27, 25 25" />
   </g>
 </svg>
-```
-
-### Key Changes Made:
-1.  **The "Gap" Effect:** Instead of one solid wave, the top wave is now two separate curved paths. This creates the visual "break" seen in your reference image.
-2.  **Rounded Ends:** I used `stroke-linecap="round"`, which gives the waves those soft, circular ends instead of flat edges.
-3.  **Simplified Geometry:** I replaced the extremely complex coordinate strings with clean Bezier curves (`C` commands), making the icon look smoother and more professional.
-4.  **Layering:** The bolt is placed first in the code, and the waves second. Because the top wave is split, the bolt is visible in the middle but looks like it's diving "under" the wave edges.
-5.  **Consistent Color:** Everything is set to your blue `#ccdaf5`.
